@@ -1,8 +1,8 @@
+<img alt="Social Preview Image" src="https://github.com/dptmf35/camera_lidar_projection/blob/main/projection.png">
 
 
 # camera_lidar_projection
 
-<img alt="Social Preview Image" src="https://github.com/dptmf35/camera_lidar_projection/blob/main/projection.png">
 
  This project is written for camera-lidar projection.
 
