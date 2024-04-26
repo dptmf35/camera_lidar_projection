@@ -1,6 +1,3 @@
-<meta property="og:image" content="https://github.com/dptmf35/camera_lidar_projection/raw/main/projection.png" />
-
-
 # camera_lidar_projection
 
 
@@ -8,4 +5,6 @@
 
  
  Manuals are described in <a href="https://choonsikmom.notion.site/LiDAR-Camera-Calibration-48c452d6541b40b2bfd7c630bbce882e?pvs=4">notion page</a>.
- 
+
+ <img alt="Social Preview Image" src="https://github.com/dptmf35/camera\_lidar\_projection/blob/main/projection.png">
+
