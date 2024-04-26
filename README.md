@@ -1,4 +1,4 @@
-<img alt="Social Preview Image" src="https://github.com/dptmf35/camera_lidar_projection/blob/main/projection.png">
+<meta property="og:image" content="https://github.com/dptmf35/camera_lidar_projection/raw/main/projection.png" />
 
 
 # camera_lidar_projection
